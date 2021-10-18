@@ -20,10 +20,3 @@ elif IMC >= 30 and IMC < 39.9:
 
 else:
     print(f'Seu IMC é de {IMC}, e é classificado como Obesidade Grave')
-
-
-# MENOR QUE 18,5: MAGREZA
-# ENTRE 18,5 E 24,9: NORMAL
-# ENTRE 25,0 E 29,9: SOBREPESO
-# ENTRE 30,0 E 39,9: OBESIDADE
-# MAIOR QUE 40,0: OBESIDADE GRAVE
